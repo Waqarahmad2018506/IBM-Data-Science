@@ -8,11 +8,11 @@
 * [**APIs, and Data Collection**](https://github.com/aqafridi/Data-Analytics/tree/main/Python%20for%20Data%20Science%2C%20AI%20%26%20Development/5.%20APIs%2C%20and%20Data%20Collection)
 
 ## Machine Learning with Python
-* [**1. Regression**](https://github.com/aqafridi/Data-Science-Specialization/tree/main/Machine%20Learning%20with%20Python/1.%20Regression)
-* [**2. Classification**](https://github.com/aqafridi/Data-Science-Specialization/tree/main/Machine%20Learning%20with%20Python/2.%20Classification)
-* [**3. Clustering**](https://github.com/aqafridi/Data-Science-Specialization/tree/main/Machine%20Learning%20with%20Python/3.%20Clustering)
-* [**4. Recommender Systems**](https://github.com/aqafridi/Data-Science-Specialization/tree/main/Machine%20Learning%20with%20Python/4.%20Recommender%20Systems)
-* [**5. Final Project**](https://github.com/aqafridi/Data-Science-Specialization/tree/main/Machine%20Learning%20with%20Python/5.%20Final%20Project)
+* [**1. Regression**](https://github.com/Waqarahmad2018506/IBM-data-Science/tree/main/Machine%20Learning%20with%20Python/1.%20Regression)
+* [**2. Classification**](https://github.com/Waqarahmad2018506/IBM-data-Science/tree/main/Machine%20Learning%20with%20Python/2.%20Classification)
+* [**3. Clustering**](https://github.com/Waqarahmad2018506/IBM-data-Science/tree/main/Machine%20Learning%20with%20Python/3.%20Clustering)
+* [**4. Recommender Systems**](https://github.com/Waqarahmad2018506/IBM-data-Science/tree/main/Machine%20Learning%20with%20Python/4.%20Recommender%20Systems)
+* [**5. Final Project**](https://github.com/Waqarahmad2018506/IBM-data-Science/tree/main/Machine%20Learning%20with%20Python/5.%20Final%20Project)
 
 ## Python Project for Data Science
 * [**Intro to Web Scraping Using BeautifulSoup**](https://github.com/aqafridi/Data-Analytics/blob/main/Python%20Project%20for%20Data%20Science/WebScraping_Review_Lab.ipynb)

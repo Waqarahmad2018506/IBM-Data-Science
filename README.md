@@ -22,11 +22,11 @@
 
 
 ## Databases and SQL for Data Science with Python
-* [**Getting Started with SQL**](https://github.com/aqafridi/Data-Analytics/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
-* [**Introduction to Relational Databases and Tables**](https://github.com/aqafridi/Data-Analytics/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
-* [**Intermediate SQL**](https://github.com/aqafridi/Data-Analytics/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
-* [**Accessing Databases using Python**](https://github.com/aqafridi/Data-Analytics/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
-* [**Course Assignment**](https://github.com/aqafridi/Data-Analytics/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
+* [**Getting Started with SQL**](https://github.com/Waqarahmad2018506/IBM-data-Science/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
+* [**Introduction to Relational Databases and Tables**](https://github.com/Waqarahmad2018506/IBM-data-Science/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
+* [**Intermediate SQL**](https://github.com/Waqarahmad2018506/IBM-data-Science/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
+* [**Accessing Databases using Python**](https://github.com/Waqarahmad2018506/IBM-data-Science/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
+* [**Course Assignment**](https://github.com/Waqarahmad2018506/IBM-data-Science/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
 
 ## Data Analysis with Python
 * [**Lab 1: Importing Datasets**](https://github.com/Waqarahmad2018506/IBM-data-Science/blob/main/Data%20Analysis%20with%20Python/review-introduction.ipynb)
@@ -37,10 +37,10 @@
 * [**House Sales in King County, USA**](https://github.com/Waqarahmad2018506/IBM-data-Science/blob/main/Data%20Analysis%20with%20Python/House_Sales_in_King_Count_USA.ipynb)
 
 ## Data Visualization with Python
-* [**Introduction to Data Visualization**](https://github.com/aqafridi/Data-Analytics/tree/main/Data%20Visualization%20with%20Python)
-* [**Visualization Tools**](https://github.com/aqafridi/Data-Analytics/tree/main/Data%20Visualization%20with%20Python)
-* [**Visualizing Geospatial Data**](https://github.com/aqafridi/Data-Analytics/tree/main/Data%20Visualization%20with%20Python)
-* [**Dashboards with Plotly and Dash**](https://github.com/aqafridi/Data-Analytics/tree/main/Data%20Visualization%20with%20Python)
+* [**Introduction to Data Visualization**](https://github.com/Waqarahmad2018506/IBM-data-Science/tree/main/Data%20Visualization%20with%20Python)
+* [**Visualization Tools**](https://github.com/Waqarahmad2018506/IBM-data-Science/tree/main/Data%20Visualization%20with%20Python)
+* [**Visualizing Geospatial Data**](https://github.com/Waqarahmad2018506/IBM-data-Science/tree/main/Data%20Visualization%20with%20Python)
+* [**Dashboards with Plotly and Dash**](https://github.com/Waqarahmad2018506/IBM-data-Science/tree/main/Data%20Visualization%20with%20Python)
 
 ## Applied Data Science Capstone
 * [**1. Data Collection and Wrangling**](https://github.com/Waqarahmad2018506/IBM-data-Science/tree/main/Applied%20Data%20Science%20Capstone/1.%20Data%20Collection%20and%20Wrangling)

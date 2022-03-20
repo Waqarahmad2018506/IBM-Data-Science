@@ -15,10 +15,10 @@
 * [**5. Final Project**](https://github.com/Waqarahmad2018506/IBM-data-Science/tree/main/Machine%20Learning%20with%20Python/5.%20Final%20Project)
 
 ## Python Project for Data Science
-* [**Intro to Web Scraping Using BeautifulSoup**](https://github.com/aqafridi/Data-Analytics/blob/main/Python%20Project%20for%20Data%20Science/WebScraping_Review_Lab.ipynb)
-* [**Extracting Stock Data Using a Python Library**](https://github.com/aqafridi/Data-Analytics/blob/main/Python%20Project%20for%20Data%20Science/Final_Assignment_Library_Stocks_Prices.ipynb)
-* [**Extracting Stock Data Using Web Scraping**](https://github.com/aqafridi/Data-Analytics/blob/main/Python%20Project%20for%20Data%20Science/Final%20Assignment_Webscraping_Stocks_Prices.ipynb)
-* [**Extracting_and_Visualizing_Stock_Data_Final_Assignment**](https://github.com/aqafridi/Data-Analytics/blob/main/Python%20Project%20for%20Data%20Science/Extracting_and_Visualizing_Stock_Data_Final_Assignment.ipynb)
+* [**Intro to Web Scraping Using BeautifulSoup**](https://github.com/Waqarahmad2018506/IBM-data-Science/blob/main/Python%20Project%20for%20Data%20Science/WebScraping_Review_Lab.ipynb)
+* [**Extracting Stock Data Using a Python Library**](https://github.com/Waqarahmad2018506/IBM-data-Science/blob/main/Python%20Project%20for%20Data%20Science/Final%20Project_Stocks%20and%20revenues.ipynb)
+* [**Extracting Stock Data Using Web Scraping**](https://github.com/Waqarahmad2018506/IBM-data-Science/blob/main/Python%20Project%20for%20Data%20Science/Final%20Assignment_Webscraping_Stocks_Prices.ipynb)
+* [**Extracting_and_Visualizing_Stock_Data_Final_Assignment**](https://github.com/Waqarahmad2018506/IBM-data-Science/blob/main/Python%20Project%20for%20Data%20Science/Extracting_and_Visualizing_Stock_Data_Final_Assignment.ipynb)
 
 
 ## Databases and SQL for Data Science with Python
